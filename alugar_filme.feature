@@ -32,7 +32,7 @@ Esquema do Cenário: Deve dar condições conforme tipo de aluguel
 	
 Exemplos:
 	| preco | tipo      | valor | qtdDias | pontuacao |
-	|   4   | extendido |   8   |   3     |     2     |
+	|   4   | comum     |   8   |   3     |     2     |
 	|   4   |   comum   |   4   |   1     |     1     |
 	|  10   | extendido |  20   |   3     |     2     |
 	|  5    |  semanal  |  15   |   7     |     3     |
